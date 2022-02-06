@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.obsidianportal.com/assets/135439/vega-space-banner.jpg)]
+![MasterHead](https://cdn.obsidianportal.com/assets/135439/vega-space-banner.jpg)
 <h1 align="center">Hi 👋, I'm Sophiya Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="space" width="400"src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/d5939be13ea1f3e40add7384af73ea92.gif">
