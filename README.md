@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sophiya02" alt="sophiya02" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, CP and MERN**
+- 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **HTML, CSS, JS, ReactJS, ThreeJS, CP, DSA**
+- 💬 Ask me about **HTML, CSS, JS, ReactJS, ThreeJS, CP, DSA, Angular, NodeJs, ExpressJs, MongoDb, Mongoose**
 
 - 📫 How to reach me **sophiya.singh2002@gmail.com**
 
