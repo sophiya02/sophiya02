@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.obsidianportal.com/assets/135439/vega-space-banner.jpg)
 <h1 align="center">Hi 👋, I'm Sophiya Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="space" width="400"src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/d5939be13ea1f3e40add7384af73ea92.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sophiya02&label=Profile%20views&color=0e75b6&style=flat" alt="sophiya02" /> </p>
 
